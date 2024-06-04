@@ -3,8 +3,8 @@
     <td width="75%">
       <h1>Linlin Kang</h1>
       <p><b>Research Associate Professor，Westlake University</b></p>
-      <p><b>邮箱：renwenqi@hikvision.com</b></p>
-      <p><b>地址：杭州市滨江区阡陌路555号</b></p>
+      <p><b>Email：kanglinlin@westlake.edu.cn</b></p>
+      <p><b>Address：No. 600 Dunyu Road, Xihu District, Hangzhou, Zhejiang, 310030, P.R. China</b></p>
     </td>
     <td width="25%">
       <img src="/任文奇-形象照 - small.JPG" width="100%">
@@ -12,11 +12,15 @@
   </tr>
 </table>
 
-### **Education**    
-  + 2012-2017, 博士，仪器科学与技术，中国科学技术大学  
-  + 2015-2016, 访问学生，生物医学工程系，美国俄亥俄州立大学  
-  + 2008-2012, 学士，仪器科学与技术，中国科学技术大学   
+### **Work Experience**    
+  + 2024.01-Current, Research Associate Professor, College of Engineering, Westlake University  
+  + 2022.01-2024.01, Research Assisstant Professor, College of Engineering, Westlake University    
+  + 2020.01-2022.01, Postdoctoral Fellow, College of Engineering, Westlake University  
 
+### **Education**    
+  + 2014.04-2020.01, Ph.D, Fluid Mechanics, Peking University
+  + 2010.09-2014.06, B.S., Fluid Mechanics, University of Science and Technology of China
+    
 ### **Projects**  
 1、承担课题：浙江省重点研发计划——智能安防典型场景解决方案研究及应用示范——基于人工智能技术的安防研究及应用（2019C01007）；课题骨干（排名第3）,2018.7-2021.3  
 2、参与课题：科技部-科技创新2030-新一代人工智能重大专项：视频感知人工智能开放创新平台建设及应用推广（2020AAA0104004）；课题骨干（排名14）,2020.7-2023.6  
