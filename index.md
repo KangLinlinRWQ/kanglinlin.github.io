@@ -1,9 +1,8 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>任文奇</h1>
-      <p><b>中国科学技术大学，博士</b></p>
-      <p><b>海康威视研究院，高级算法工程师&战略合作经理</b></p>
+      <h1>Linlin Kang</h1>
+      <p><b>Research Associate Professor，Westlake University</b></p>
       <p><b>邮箱：renwenqi@hikvision.com</b></p>
       <p><b>地址：杭州市滨江区阡陌路555号</b></p>
     </td>
